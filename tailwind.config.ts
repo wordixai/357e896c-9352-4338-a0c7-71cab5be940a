@@ -50,8 +50,17 @@ export default {
 				},
 				card: {
 					DEFAULT: 'hsl(var(--card))',
-					foreground: 'hsl(var(--card-foreground))'
+					foreground: 'hsl(var(--card-foreground))',
+					blue: 'hsl(var(--card-blue))',
+					'blue-dark': 'hsl(var(--card-blue-dark))',
+					purple: 'hsl(var(--card-purple))',
+					'purple-dark': 'hsl(var(--card-purple-dark))',
+					pink: 'hsl(var(--card-pink))',
+					'pink-dark': 'hsl(var(--card-pink-dark))',
+					green: 'hsl(var(--card-green))',
+					'green-dark': 'hsl(var(--card-green-dark))'
 				},
+				laurel: 'hsl(var(--laurel))',
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
