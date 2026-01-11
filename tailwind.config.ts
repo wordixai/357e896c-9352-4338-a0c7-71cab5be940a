@@ -61,6 +61,12 @@ export default {
 					'green-dark': 'hsl(var(--card-green-dark))'
 				},
 				laurel: 'hsl(var(--laurel))',
+				feature: {
+					yellow: 'hsl(var(--feature-yellow))',
+					orange: 'hsl(var(--feature-orange))',
+					pink: 'hsl(var(--feature-pink))',
+					beige: 'hsl(var(--feature-beige))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',

@@ -48,6 +48,12 @@
 
     /* Laurel gold */
     --laurel: 38 60% 45%;
+
+    /* Feature section colors */
+    --feature-yellow: 55 80% 85%;
+    --feature-orange: 30 80% 70%;
+    --feature-pink: 350 60% 80%;
+    --feature-beige: 30 50% 90%;
   }
 
   .dark {
